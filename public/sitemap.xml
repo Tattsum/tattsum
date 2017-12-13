@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/2017/12/hogehoge/</loc>
+    <loc>https://tattsum.github.io/tattsum/2017/12/hogehoge/</loc>
     <lastmod>2017-12-13T22:05:13+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://tattsum.github.io/tattsum/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://tattsum.github.io/tattsum/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2017-12-13T22:05:13+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/post/</loc>
+    <loc>https://tattsum.github.io/tattsum/</loc>
     <lastmod>2017-12-13T22:05:13+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://tattsum.github.io/tattsum/post/</loc>
+    <lastmod>2017-12-13T22:05:13+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/tags/</loc>
     <priority>0</priority>
   </url>
   
