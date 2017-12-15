@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>情報系の学生の旅路</title>
-    <link>https://tattsum.github.io/tattsum/</link>
-    <description>Recent content on 情報系の学生の旅路</description>
+    <title>Future on 情報系の学生の旅路</title>
+    <link>https://tattsum.github.io/tattsum/categories/future/</link>
+    <description>Recent content in Future on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-jp</language>
     <lastBuildDate>Thu, 14 Dec 2017 20:57:21 +0900</lastBuildDate>
     
-	<atom:link href="https://tattsum.github.io/tattsum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tattsum.github.io/tattsum/categories/future/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -44,18 +44,6 @@ php, uml, リーンスタートアップ，mvp, もう何が何だかでした
 とりあえず，興味があったもの全部に手を出しました．
 学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
 でもふと思ったんです．</description>
-    </item>
-    
-    <item>
-      <title>はじめました</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Wed, 13 Dec 2017 22:05:13 +0900</pubDate>
-      
-      <guid>https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>はじめての記事投稿です．
-ついにBlogをリニューアルしました！！
-先日まではwordpressを使っていたんですが， つい気になっていたHugoに乗り換えました．
-ここでも記事の投稿はして行くので，よろしくお願いします．</description>
     </item>
     
   </channel>

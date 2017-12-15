@@ -1,7 +1,7 @@
 ---
 title: "Reflection"
 date: 2017-12-14T20:57:21+09:00
-draft: true
+draft: false
 categories:
 - career
 - future

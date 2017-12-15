@@ -1,0 +1,831 @@
+
+
+  
+    
+  
+
+
+  
+
+
+
+
+  
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-jp">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.31.1 with theme Tranquilpeak 0.4.3-BETA">
+    <title>Reflection</title>
+    <meta name="author" content="Tatsuma Kano">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="https://tattsum.github.io/tattsum/favicon.png">
+    
+
+    
+    <meta name="description" content="初めまして このブログにいらしていただきありがとうございます．
+自己紹介しておきますね．私は愛知県の某大学に通っている大学生です． これを書いているころは大学4年生をしています．
+サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが， 2年の終わりからいろんなことに手を出すようになりました．
+それが今このブログを書いている状況にもつながってくるのですが&hellip;
+まあ，何かのヒントになればと思い，ここに残しておきます．
+大学入学とキラキラ大学生 今の大学に決めた理由は&hellip; ありません 単純に消去法でした
+もともと志望していた国立大学には受験戦争に敗退し，断念 テキトーにいくつかの私立大学を受けてその中で自分がこれだったらと妥協しました
+でも今現在，この選択をして後悔は全くしていません！ 自分の好きなことが好きな時に好きな人たちとできているので， 自分は本当に恵まれているんだなと感じています．
+それはさておいて，大学生と言ったら&hellip;ってことをこの時一気にしました
+ 飲み会で朝まで カラオケオール バイトだらけの生活 サークル 体育会系の部活 &hellip;etc etc  なんか大学生っぽいなと今だから言えるんですが，そう感じることをたくさんしました
+出会い 大学2年になって，講義もだんだんと専門的なことになり難しくなってきました．
+ある講義では同じ大学の院生の先輩がteaching assistantとして教えてくれました． その時にある先輩から 「これ面白いよ！」 この一言でした．本当にこの一言でこれまでの生活と変わった気がしました．
+聞いたことがある人はいるかもしれませんが，
+Startup Weekend
+これに参加するよう先輩が誘ってきたのです． 言われた当初は怪しいセミナーかなんかか？なんて思っていたのですが，お世話になっている先輩のアドバイスでしたので， 参加することにしました．
+もう，コテンパンにされました笑 いやー，今思うと，もうちょっとできただろうと思いますけど(白目)
+php, uml, リーンスタートアップ，mvp, もう何が何だかでした
+でも自分はここでこう言った世界もあるんだなと知ることができました．
+知らないことはあって当然，知らないなら聞けばいい． 特にこの業界のエンジニアの皆さんは，自分の知っている知識を披露できる場が少しでもあると 喜んで披露してくれます．
+自分はそう言った人たちに囲まれて濃い濃いかなり濃い3日間を過ごすことになりました．
+自分から行動 Startup Weekendを機に自分から知らない世界へとどんどん踏み込んでいきました．
+名古屋のエンジニアさんが集まっているバーに行ったり，勉強会に参加したり，インターンに行ったりと．
+もう，とりあえず，なんでもしました．本当になんでも， バイトもやめて，インターン先で，Webの開発会社なのに，トイレ掃除を1日中やり続けるとか 新規事業立案とか，会計，簿記の勉強とか
+コーディングもしていきました． Ruby rails go swift Python
+とりあえず，興味があったもの全部に手を出しました．
+学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
+でもふと思ったんです．">
+    <meta property="og:description" content="初めまして このブログにいらしていただきありがとうございます．
+自己紹介しておきますね．私は愛知県の某大学に通っている大学生です． これを書いているころは大学4年生をしています．
+サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが， 2年の終わりからいろんなことに手を出すようになりました．
+それが今このブログを書いている状況にもつながってくるのですが&hellip;
+まあ，何かのヒントになればと思い，ここに残しておきます．
+大学入学とキラキラ大学生 今の大学に決めた理由は&hellip; ありません 単純に消去法でした
+もともと志望していた国立大学には受験戦争に敗退し，断念 テキトーにいくつかの私立大学を受けてその中で自分がこれだったらと妥協しました
+でも今現在，この選択をして後悔は全くしていません！ 自分の好きなことが好きな時に好きな人たちとできているので， 自分は本当に恵まれているんだなと感じています．
+それはさておいて，大学生と言ったら&hellip;ってことをこの時一気にしました
+ 飲み会で朝まで カラオケオール バイトだらけの生活 サークル 体育会系の部活 &hellip;etc etc  なんか大学生っぽいなと今だから言えるんですが，そう感じることをたくさんしました
+出会い 大学2年になって，講義もだんだんと専門的なことになり難しくなってきました．
+ある講義では同じ大学の院生の先輩がteaching assistantとして教えてくれました． その時にある先輩から 「これ面白いよ！」 この一言でした．本当にこの一言でこれまでの生活と変わった気がしました．
+聞いたことがある人はいるかもしれませんが，
+Startup Weekend
+これに参加するよう先輩が誘ってきたのです． 言われた当初は怪しいセミナーかなんかか？なんて思っていたのですが，お世話になっている先輩のアドバイスでしたので， 参加することにしました．
+もう，コテンパンにされました笑 いやー，今思うと，もうちょっとできただろうと思いますけど(白目)
+php, uml, リーンスタートアップ，mvp, もう何が何だかでした
+でも自分はここでこう言った世界もあるんだなと知ることができました．
+知らないことはあって当然，知らないなら聞けばいい． 特にこの業界のエンジニアの皆さんは，自分の知っている知識を披露できる場が少しでもあると 喜んで披露してくれます．
+自分はそう言った人たちに囲まれて濃い濃いかなり濃い3日間を過ごすことになりました．
+自分から行動 Startup Weekendを機に自分から知らない世界へとどんどん踏み込んでいきました．
+名古屋のエンジニアさんが集まっているバーに行ったり，勉強会に参加したり，インターンに行ったりと．
+もう，とりあえず，なんでもしました．本当になんでも， バイトもやめて，インターン先で，Webの開発会社なのに，トイレ掃除を1日中やり続けるとか 新規事業立案とか，会計，簿記の勉強とか
+コーディングもしていきました． Ruby rails go swift Python
+とりあえず，興味があったもの全部に手を出しました．
+学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
+でもふと思ったんです．">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Reflection">
+    <meta property="og:url" content="/2017/12/reflection/">
+    <meta property="og:site_name" content="情報系の学生の旅路">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="情報系の学生の旅路">
+    <meta name="twitter:description" content="初めまして このブログにいらしていただきありがとうございます．
+自己紹介しておきますね．私は愛知県の某大学に通っている大学生です． これを書いているころは大学4年生をしています．
+サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが， 2年の終わりからいろんなことに手を出すようになりました．
+それが今このブログを書いている状況にもつながってくるのですが&hellip;
+まあ，何かのヒントになればと思い，ここに残しておきます．
+大学入学とキラキラ大学生 今の大学に決めた理由は&hellip; ありません 単純に消去法でした
+もともと志望していた国立大学には受験戦争に敗退し，断念 テキトーにいくつかの私立大学を受けてその中で自分がこれだったらと妥協しました
+でも今現在，この選択をして後悔は全くしていません！ 自分の好きなことが好きな時に好きな人たちとできているので， 自分は本当に恵まれているんだなと感じています．
+それはさておいて，大学生と言ったら&hellip;ってことをこの時一気にしました
+ 飲み会で朝まで カラオケオール バイトだらけの生活 サークル 体育会系の部活 &hellip;etc etc  なんか大学生っぽいなと今だから言えるんですが，そう感じることをたくさんしました
+出会い 大学2年になって，講義もだんだんと専門的なことになり難しくなってきました．
+ある講義では同じ大学の院生の先輩がteaching assistantとして教えてくれました． その時にある先輩から 「これ面白いよ！」 この一言でした．本当にこの一言でこれまでの生活と変わった気がしました．
+聞いたことがある人はいるかもしれませんが，
+Startup Weekend
+これに参加するよう先輩が誘ってきたのです． 言われた当初は怪しいセミナーかなんかか？なんて思っていたのですが，お世話になっている先輩のアドバイスでしたので， 参加することにしました．
+もう，コテンパンにされました笑 いやー，今思うと，もうちょっとできただろうと思いますけど(白目)
+php, uml, リーンスタートアップ，mvp, もう何が何だかでした
+でも自分はここでこう言った世界もあるんだなと知ることができました．
+知らないことはあって当然，知らないなら聞けばいい． 特にこの業界のエンジニアの皆さんは，自分の知っている知識を披露できる場が少しでもあると 喜んで披露してくれます．
+自分はそう言った人たちに囲まれて濃い濃いかなり濃い3日間を過ごすことになりました．
+自分から行動 Startup Weekendを機に自分から知らない世界へとどんどん踏み込んでいきました．
+名古屋のエンジニアさんが集まっているバーに行ったり，勉強会に参加したり，インターンに行ったりと．
+もう，とりあえず，なんでもしました．本当になんでも， バイトもやめて，インターン先で，Webの開発会社なのに，トイレ掃除を1日中やり続けるとか 新規事業立案とか，会計，簿記の勉強とか
+コーディングもしていきました． Ruby rails go swift Python
+とりあえず，興味があったもの全部に手を出しました．
+学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
+でもふと思ったんです．">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=640">
+    
+
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://tattsum.github.io/tattsum/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    
+    
+
+    
+      
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://tattsum.github.io/tattsum/">情報系の学生の旅路</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://tattsum.github.io/tattsum/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=90" alt="" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://tattsum.github.io/tattsum/#about">
+          <img class="sidebar-profile-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="" />
+        </a>
+        <h4 class="sidebar-profile-name">Tatsuma Kano</h4>
+        
+          <h5 class="sidebar-profile-bio">これは個人的な発言であり、所属団体等を代表する発言ではありません</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/categories">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
+      
+      <span class="sidebar-button-desc">Categories</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/archives">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
+      
+      <span class="sidebar-button-desc">Archives</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/#about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/Tattsum/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://stackoverflow.com/users/636472/kakawait" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-stack-overflow"></i>
+      
+      <span class="sidebar-button-desc">Stack Overflow</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Reflection
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2017-12-14T20:57:21&#43;09:00">
+        
+   14, 2017
+
+      </time>
+    
+    
+  
+  
+    <span></span>
+    
+      <a class="category-link" href="https://tattsum.github.io/tattsum/categories/career">career</a>, 
+    
+      <a class="category-link" href="https://tattsum.github.io/tattsum/categories/future">future</a>
+    
+  
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              
+
+<h1 id="初めまして">初めまして</h1>
+
+<p>このブログにいらしていただきありがとうございます．</p>
+
+<p>自己紹介しておきますね．私は愛知県の某大学に通っている大学生です．
+これを書いているころは大学4年生をしています．</p>
+
+<p>サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが，
+2年の終わりからいろんなことに手を出すようになりました．</p>
+
+<p>それが今このブログを書いている状況にもつながってくるのですが&hellip;</p>
+
+<p>まあ，何かのヒントになればと思い，ここに残しておきます．</p>
+
+<h2 id="大学入学とキラキラ大学生">大学入学とキラキラ大学生</h2>
+
+<p>今の大学に決めた理由は&hellip; <strong>ありません</strong>
+単純に消去法でした</p>
+
+<p>もともと志望していた国立大学には受験戦争に敗退し，断念
+テキトーにいくつかの私立大学を受けてその中で自分がこれだったらと妥協しました</p>
+
+<p>でも今現在，この選択をして後悔は全くしていません！
+自分の好きなことが好きな時に好きな人たちとできているので，
+自分は本当に恵まれているんだなと感じています．</p>
+
+<p>それはさておいて，大学生と言ったら&hellip;ってことをこの時一気にしました</p>
+
+<ul>
+<li>飲み会で朝まで</li>
+<li>カラオケオール</li>
+<li>バイトだらけの生活</li>
+<li>サークル</li>
+<li>体育会系の部活</li>
+<li>&hellip;etc etc</li>
+</ul>
+
+<p>なんか大学生っぽいなと今だから言えるんですが，そう感じることをたくさんしました</p>
+
+<h2 id="出会い">出会い</h2>
+
+<p>大学2年になって，講義もだんだんと専門的なことになり難しくなってきました．</p>
+
+<p>ある講義では同じ大学の院生の先輩がteaching assistantとして教えてくれました．
+その時にある先輩から
+<strong>「これ面白いよ！」</strong>
+この一言でした．本当にこの一言でこれまでの生活と変わった気がしました．</p>
+
+<p>聞いたことがある人はいるかもしれませんが，</p>
+
+<p><a href="http://nposw.org/">Startup Weekend</a></p>
+
+<p>これに参加するよう先輩が誘ってきたのです．
+言われた当初は怪しいセミナーかなんかか？なんて思っていたのですが，お世話になっている先輩のアドバイスでしたので，
+参加することにしました．</p>
+
+<p>もう，コテンパンにされました笑
+いやー，今思うと，もうちょっとできただろうと思いますけど(白目)</p>
+
+<p>php, uml, リーンスタートアップ，mvp, もう何が何だかでした</p>
+
+<p>でも自分はここでこう言った世界もあるんだなと知ることができました．</p>
+
+<p>知らないことはあって当然，知らないなら聞けばいい．
+特にこの業界のエンジニアの皆さんは，自分の知っている知識を披露できる場が少しでもあると
+喜んで披露してくれます．</p>
+
+<p>自分はそう言った人たちに囲まれて濃い濃いかなり濃い3日間を過ごすことになりました．</p>
+
+<h2 id="自分から行動">自分から行動</h2>
+
+<p>Startup Weekendを機に自分から知らない世界へとどんどん踏み込んでいきました．</p>
+
+<p>名古屋のエンジニアさんが集まっているバーに行ったり，勉強会に参加したり，インターンに行ったりと．</p>
+
+<p>もう，とりあえず，なんでもしました．本当になんでも，
+バイトもやめて，インターン先で，Webの開発会社なのに，トイレ掃除を1日中やり続けるとか
+新規事業立案とか，会計，簿記の勉強とか</p>
+
+<p>コーディングもしていきました．
+Ruby rails go swift Python</p>
+
+<p>とりあえず，興味があったもの全部に手を出しました．</p>
+
+<p>学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．</p>
+
+<p>でもふと思ったんです．</p>
+
+<p><strong><em>今の自分って結局何がしたいんだろう？？</em></strong></p>
+
+<p>って&hellip;</p>
+
+<p>あれもこれもと手を出しすぎで収集がつかなくなっていました．
+今でも若干その傾向がありますが&hellip;&gt;&lt;</p>
+
+<p>それから就職活動をして，仲間とともに起業したり，今は大学院に進学するための準備をしたり(と言っても内部進学なので，卒業研究に追われているだけですが&hellip;)</p>
+
+<p>このポエムみたいなブログを書いて，自分を振り返っています．
+これから進むであろう世界は自分が思っているよりより険しい．そんなことはいろんな人から言われなくとも自分が一番わかっているんですよね笑</p>
+
+<p>深夜のテンションで書いているんで，後で読み返すとどうせ恥ずかしくなるんですが&hellip;</p>
+
+<p>とりあえず，言いたいことは，</p>
+
+<h1 id="後悔だけはするな">後悔だけはするな！</h1>
+
+<p>です．</p>
+
+<p>後悔するような道は選んではいけません！</p>
+
+<p>その選択をして後悔すると思うならば，その選択は間違っている可能性が高いんです．</p>
+
+<p>だから，勇気と自信，ちょっとの不安を持って前へと進んでください．
+勇気や自信があればその一歩は大きな一歩になりえます．</p>
+
+<p>不安があるから慎重に物事を進められます．だから，ちょっとは持って行ってください．</p>
+
+<p>長々と意味もなく，まとまりがない文章を書き連ねました．
+これからもたまーに更新していきます．</p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small"></span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://tattsum.github.io/tattsum/tags/reflection/">Reflection</a>
+
+                  </div>
+                
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/" data-tooltip="はじめました">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2017 Tatsuma Kano. 
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+          
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--disabled">
+              
+                  <i class="fa fa-angle-left"></i>
+                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/" data-tooltip="はじめました">
+              
+                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+          
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.github.io/tattsum/2017/12/reflection/">
+              <i class="fa fa-google-plus"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2017%2F12%2Freflection%2F">
+          <i class="fa fa-facebook-official"></i><span>%!(EXTRA string=Facebook)</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2017%2F12%2Freflection%2F">
+          <i class="fa fa-twitter"></i><span>%!(EXTRA string=Twitter)</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2017%2F12%2Freflection%2F">
+          <i class="fa fa-google-plus"></i><span>%!(EXTRA string=Google&#43;)</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="" />
+    
+    <h4 id="about-card-name">Tatsuma Kano</h4>
+    
+      <div id="about-card-bio">これは個人的な発言であり、所属団体等を代表する発言ではありません</div>
+    
+    
+      <div id="about-card-job">
+        <i class="fa fa-briefcase"></i>
+        <br/>
+        とある大学の学生
+      </div>
+    
+    
+      <div id="about-card-location">
+        <i class="fa fa-map-marker"></i>
+        <br/>
+        Japan
+      </div>
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center"></div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/reflection/">
+                <h3 class="media-heading">Reflection</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Dec 12, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">初めまして このブログにいらしていただきありがとうございます．
+自己紹介しておきますね．私は愛知県の某大学に通っている大学生です． これを書いているころは大学4年生をしています．
+サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが， 2年の終わりからいろんなことに手を出すようになりました．
+それが今このブログを書いている状況にもつながってくるのですが&hellip;
+まあ，何かのヒントになればと思い，ここに残しておきます．
+大学入学とキラキラ大学生 今の大学に決めた理由は&hellip; ありません 単純に消去法でした
+もともと志望していた国立大学には受験戦争に敗退し，断念 テキトーにいくつかの私立大学を受けてその中で自分がこれだったらと妥協しました
+でも今現在，この選択をして後悔は全くしていません！ 自分の好きなことが好きな時に好きな人たちとできているので， 自分は本当に恵まれているんだなと感じています．
+それはさておいて，大学生と言ったら&hellip;ってことをこの時一気にしました
+ 飲み会で朝まで カラオケオール バイトだらけの生活 サークル 体育会系の部活 &hellip;etc etc  なんか大学生っぽいなと今だから言えるんですが，そう感じることをたくさんしました
+出会い 大学2年になって，講義もだんだんと専門的なことになり難しくなってきました．
+ある講義では同じ大学の院生の先輩がteaching assistantとして教えてくれました． その時にある先輩から 「これ面白いよ！」 この一言でした．本当にこの一言でこれまでの生活と変わった気がしました．
+聞いたことがある人はいるかもしれませんが，
+Startup Weekend
+これに参加するよう先輩が誘ってきたのです． 言われた当初は怪しいセミナーかなんかか？なんて思っていたのですが，お世話になっている先輩のアドバイスでしたので， 参加することにしました．
+もう，コテンパンにされました笑 いやー，今思うと，もうちょっとできただろうと思いますけど(白目)
+php, uml, リーンスタートアップ，mvp, もう何が何だかでした
+でも自分はここでこう言った世界もあるんだなと知ることができました．
+知らないことはあって当然，知らないなら聞けばいい． 特にこの業界のエンジニアの皆さんは，自分の知っている知識を披露できる場が少しでもあると 喜んで披露してくれます．
+自分はそう言った人たちに囲まれて濃い濃いかなり濃い3日間を過ごすことになりました．
+自分から行動 Startup Weekendを機に自分から知らない世界へとどんどん踏み込んでいきました．
+名古屋のエンジニアさんが集まっているバーに行ったり，勉強会に参加したり，インターンに行ったりと．
+もう，とりあえず，なんでもしました．本当になんでも， バイトもやめて，インターン先で，Webの開発会社なのに，トイレ掃除を1日中やり続けるとか 新規事業立案とか，会計，簿記の勉強とか
+コーディングもしていきました． Ruby rails go swift Python
+とりあえず，興味があったもの全部に手を出しました．
+学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
+でもふと思ったんです．</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/">
+                <h3 class="media-heading">はじめました</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Dec 12, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">はじめての記事投稿です．
+ついにBlogをリニューアルしました！！
+先日まではwordpressを使っていたんですが， つい気になっていたHugoに乗り換えました．
+ここでも記事の投稿はして行くので，よろしくお願いします．</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero=""
+         data-message-one=""
+         data-message-other="">
+         2 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('https://tattsum.github.io/tattsum/images/cover.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
+
+
+<script src="https://tattsum.github.io/tattsum/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight > code, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/tattsum.github.io\/tattsum\/2017\/12\/reflection\/';
+          
+            this.page.identifier = '\/2017\/12\/reflection\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+    
+  </body>
+</html>
+
