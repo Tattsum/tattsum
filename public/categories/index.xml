@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-jp</language>
-    <lastBuildDate>Thu, 14 Dec 2017 20:57:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2017 23:40:29 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.github.io/tattsum/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Career</title>
       <link>https://tattsum.github.io/tattsum/categories/career/</link>
-      <pubDate>Thu, 14 Dec 2017 20:57:21 +0900</pubDate>
+      <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
       
       <guid>https://tattsum.github.io/tattsum/categories/career/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Future</title>
       <link>https://tattsum.github.io/tattsum/categories/future/</link>
-      <pubDate>Thu, 14 Dec 2017 20:57:21 +0900</pubDate>
+      <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
       
       <guid>https://tattsum.github.io/tattsum/categories/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>https://tattsum.github.io/tattsum/categories/reading/</link>
+      <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
+      
+      <guid>https://tattsum.github.io/tattsum/categories/reading/</guid>
       <description></description>
     </item>
     
