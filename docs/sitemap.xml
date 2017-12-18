@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/2017/12/part-time-job/</loc>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/2017/12/reading/</loc>
     <lastmod>2017-12-15T23:40:29+09:00</lastmod>
   </url>
@@ -18,19 +23,25 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/categories/amusement/</loc>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tattsum.github.io/tattsum/categories/career/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tattsum.github.io/tattsum/categories/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,8 +52,20 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/categories/how-fun/</loc>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/tags/part-time-job/</loc>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/post/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,13 +89,13 @@
   
   <url>
     <loc>https://tattsum.github.io/tattsum/tags/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tattsum.github.io/tattsum/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-16T20:16:04+09:00</lastmod>
     <priority>0</priority>
   </url>
   

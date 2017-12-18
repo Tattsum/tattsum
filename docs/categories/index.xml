@@ -6,15 +6,24 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-jp</language>
-    <lastBuildDate>Fri, 15 Dec 2017 23:40:29 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2017 20:16:04 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.github.io/tattsum/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Amusement</title>
+      <link>https://tattsum.github.io/tattsum/categories/amusement/</link>
+      <pubDate>Sat, 16 Dec 2017 20:16:04 +0900</pubDate>
+      
+      <guid>https://tattsum.github.io/tattsum/categories/amusement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Career</title>
       <link>https://tattsum.github.io/tattsum/categories/career/</link>
-      <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
+      <pubDate>Sat, 16 Dec 2017 20:16:04 +0900</pubDate>
       
       <guid>https://tattsum.github.io/tattsum/categories/career/</guid>
       <description></description>
@@ -26,6 +35,15 @@
       <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
       
       <guid>https://tattsum.github.io/tattsum/categories/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Fun</title>
+      <link>https://tattsum.github.io/tattsum/categories/how-fun/</link>
+      <pubDate>Sat, 16 Dec 2017 20:16:04 +0900</pubDate>
+      
+      <guid>https://tattsum.github.io/tattsum/categories/how-fun/</guid>
       <description></description>
     </item>
     
