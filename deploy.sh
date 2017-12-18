@@ -8,3 +8,5 @@ echo "Finish!!hugo create!"
 git add .
 git commit -m "deploy a post"
 git push
+
+echo "OK deploy!!"
