@@ -20,7 +20,7 @@ keywords:
 
 どうも．Tattsumです．
 
-[Part-Time-Job](http://tattsum.com/2017/12/part-time-job/)
+[Part-Time-Job](https://tattsum.com/2017/12/part-time-job/)
 
 で，平日の東山遊園地の楽しみ方を紹介しました！
 

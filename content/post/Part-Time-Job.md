@@ -19,13 +19,13 @@ tags:
 どうも．Tattsumです．
 先日の記事で，簡単に今までの自分を振り返りました！
 
-http://tattsum.com/2017/12/reflection/
+https://tattsum.com/2017/12/reflection/
 
 これですね
 
 ここから紆余曲折あり，今はここで自分はアルバイトをしています．
 
-http://www.higasiyama.jp/amusement_park/
+https://www.higasiyama.jp/amusement_park/
 
 どーん
 
