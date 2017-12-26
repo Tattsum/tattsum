@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/2017/12/reading2/</loc>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/2017/12/like/</loc>
     <lastmod>2017-12-26T09:46:23+09:00</lastmod>
   </url>
@@ -56,6 +61,12 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/categories/detective/</loc>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/categories/future/</loc>
     <lastmod>2017-12-15T23:40:29+09:00</lastmod>
     <priority>0</priority>
@@ -74,14 +85,20 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/categories/love/</loc>
+    <lastmod>2017-12-26T09:46:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/tags/love/</loc>
     <lastmod>2017-12-26T09:46:23+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tattsum.github.io/tattsum/categories/love/</loc>
-    <lastmod>2017-12-26T09:46:23+09:00</lastmod>
+    <loc>https://tattsum.github.io/tattsum/categories/novel/</loc>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,19 +110,19 @@
   
   <url>
     <loc>https://tattsum.github.io/tattsum/post/</loc>
-    <lastmod>2017-12-26T09:46:23+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.github.io/tattsum/tags/reading/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tattsum.github.io/tattsum/categories/reading/</loc>
-    <lastmod>2017-12-15T23:40:29+09:00</lastmod>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/tags/reading/</loc>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -135,7 +152,13 @@
   
   <url>
     <loc>https://tattsum.github.io/tattsum/</loc>
-    <lastmod>2017-12-26T09:46:23+09:00</lastmod>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/tags/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE/</loc>
+    <lastmod>2017-12-26T21:55:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
