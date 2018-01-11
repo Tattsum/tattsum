@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 date: 2018-01-11T20:44:18+09:00
-draft: true
+draft: false
 categories:
 - tech
 - machine learning
