@@ -1,3 +1,3 @@
 #!/bin/sh
 
-hugo server -t -w -D
+hugo server -t hugo-tranquilpeak-theme -w -D
