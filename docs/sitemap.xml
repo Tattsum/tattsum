@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/2018/04/life/</loc>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/2018/03/like2/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
@@ -111,6 +116,18 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/categories/life/</loc>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/tags/life/</loc>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/categories/like/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
     <priority>0</priority>
@@ -159,6 +176,12 @@
   </url>
   
   <url>
+    <loc>https://tattsum.github.io/tattsum/tags/peace/</loc>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tattsum.github.io/tattsum/categories/plan/</loc>
     <lastmod>2018-01-01T23:17:55+09:00</lastmod>
     <priority>0</priority>
@@ -166,7 +189,7 @@
   
   <url>
     <loc>https://tattsum.github.io/tattsum/post/</loc>
-    <lastmod>2018-03-11T07:46:31+09:00</lastmod>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -185,6 +208,12 @@
   <url>
     <loc>https://tattsum.github.io/tattsum/tags/reflection/</loc>
     <lastmod>2018-01-01T23:17:55+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.github.io/tattsum/categories/story/</loc>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -220,7 +249,7 @@
   
   <url>
     <loc>https://tattsum.github.io/tattsum/</loc>
-    <lastmod>2018-03-11T07:46:31+09:00</lastmod>
+    <lastmod>2018-04-05T13:16:57+09:00</lastmod>
     <priority>0</priority>
   </url>
   
