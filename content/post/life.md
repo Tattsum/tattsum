@@ -1,7 +1,7 @@
 ---
 title: "Life"
 date: 2018-04-05T13:16:57+09:00
-draft: true
+draft: false
 categories:
 - life
 - story
@@ -50,7 +50,7 @@ keywords:
 
 後悔なんて，したくないって思っていてもしてしまうのが人間なのです．
 
-![後悔](/img/life/nyugaku_boy.png)
+![後悔](/img/life/hansei_koukai_man.png)
 
 でも，減らす努力はできると思うんです．
 
