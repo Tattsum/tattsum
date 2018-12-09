@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ai on 情報系の学生の旅路</title>
-    <link>https://tattsum.github.io/tattsum/tags/ai/</link>
+    <link>https://tattsum.com/tags/ai/</link>
     <description>Recent content in Ai on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Thu, 11 Jan 2018 20:44:18 +0900</lastBuildDate>
     
-	<atom:link href="https://tattsum.github.io/tattsum/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tattsum.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Machine Learning</title>
-      <link>https://tattsum.github.io/tattsum/2018/01/machine-learning/</link>
+      <link>https://tattsum.com/2018/01/machine-learning/</link>
       <pubDate>Thu, 11 Jan 2018 20:44:18 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/01/machine-learning/</guid>
+      <guid>https://tattsum.com/2018/01/machine-learning/</guid>
       <description>人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
 何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
 理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．

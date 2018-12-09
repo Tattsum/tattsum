@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 情報系の学生の旅路</title>
-    <link>https://tattsum.github.io/tattsum/post/</link>
+    <link>https://tattsum.com/post/</link>
     <description>Recent content in Posts on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sat, 19 May 2018 11:04:08 +0900</lastBuildDate>
     
-	<atom:link href="https://tattsum.github.io/tattsum/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tattsum.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Netbusiness</title>
-      <link>https://tattsum.github.io/tattsum/2018/05/netbusiness/</link>
+      <link>https://tattsum.com/2018/05/netbusiness/</link>
       <pubDate>Sat, 19 May 2018 11:04:08 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/05/netbusiness/</guid>
+      <guid>https://tattsum.com/2018/05/netbusiness/</guid>
       <description>お久しぶりです．Tattsumです．
 先日，知り合いの人に紹介されて，某国の優良企業が行なっている権利料ビジネスについての勉強会？ワークショップに参加してきました！
 まあ，ねずみ講じゃね？みたいなノリの人もちらほらいたり，ここのビジネス成功者に惚れ込んだ人たちがいたりと色々なバックグラウンドを持った人がそれなりの人数がいらっしゃっていました．
@@ -30,10 +30,10 @@
     
     <item>
       <title>Life</title>
-      <link>https://tattsum.github.io/tattsum/2018/04/life/</link>
+      <link>https://tattsum.com/2018/04/life/</link>
       <pubDate>Thu, 05 Apr 2018 13:16:57 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/04/life/</guid>
+      <guid>https://tattsum.com/2018/04/life/</guid>
       <description>生きるって面倒 こんにちは Tattsumです．ご無沙汰しております．
 今年は桜の開花も例年よりも早くて，ちょっとドキドキしました． なぜなら，今年の四月から自分は大学院生だからです．
 入学式に桜が満開であることが何よりです！
@@ -68,10 +68,10 @@
     
     <item>
       <title>Like2</title>
-      <link>https://tattsum.github.io/tattsum/2018/03/like2/</link>
+      <link>https://tattsum.com/2018/03/like2/</link>
       <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/03/like2/</guid>
+      <guid>https://tattsum.com/2018/03/like2/</guid>
       <description>みなさん，恋愛していますか？ 恋愛って，めちゃくちゃいろんな形がありますよね．
 例えば&amp;hellip;
  大学生同士 大学院生と大学生 社会人と大学生 教授とゼミ生  などなど，それぞれの形で恋愛をしていると思います．
@@ -86,10 +86,10 @@
     
     <item>
       <title>Reading3</title>
-      <link>https://tattsum.github.io/tattsum/2018/03/reading3/</link>
+      <link>https://tattsum.com/2018/03/reading3/</link>
       <pubDate>Wed, 07 Mar 2018 16:24:52 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/03/reading3/</guid>
+      <guid>https://tattsum.com/2018/03/reading3/</guid>
       <description>お久しぶりです．tattsumです．
 やっと色々なごたごたが終わり，自分の時間を作ることができる毎日になりました．
 実は，結構前から更新しないとな〜と考えていたのですが，なかなかできていませんでした．申し訳ありません．
@@ -105,10 +105,10 @@
     
     <item>
       <title>Machine Learning</title>
-      <link>https://tattsum.github.io/tattsum/2018/01/machine-learning/</link>
+      <link>https://tattsum.com/2018/01/machine-learning/</link>
       <pubDate>Thu, 11 Jan 2018 20:44:18 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/01/machine-learning/</guid>
+      <guid>https://tattsum.com/2018/01/machine-learning/</guid>
       <description>人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
 何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
 理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
@@ -131,10 +131,10 @@ Neural Network があります．
     
     <item>
       <title>Newyear</title>
-      <link>https://tattsum.github.io/tattsum/2018/01/newyear/</link>
+      <link>https://tattsum.com/2018/01/newyear/</link>
       <pubDate>Mon, 01 Jan 2018 23:17:55 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2018/01/newyear/</guid>
+      <guid>https://tattsum.com/2018/01/newyear/</guid>
       <description>ついにあけちゃいましたね． 大晦日は，一人暮らししている部屋を一気に掃除しました． 2年前のベルトが出てきたんですが&amp;hellip;
 もともとそんなに筋肉質ではない体型だったのが&amp;hellip;
 が
@@ -166,10 +166,10 @@ Tattsum
     
     <item>
       <title>Reading2</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/reading2/</link>
+      <link>https://tattsum.com/2017/12/reading2/</link>
       <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/reading2/</guid>
+      <guid>https://tattsum.com/2017/12/reading2/</guid>
       <description>マスカレードナイト マスカレードナイト
 みなさん読書してますか？？
 どうもTattsumです．
@@ -193,10 +193,10 @@ Tattsum
     
     <item>
       <title>Like</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/like/</link>
+      <link>https://tattsum.com/2017/12/like/</link>
       <pubDate>Tue, 26 Dec 2017 09:46:23 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/like/</guid>
+      <guid>https://tattsum.com/2017/12/like/</guid>
       <description>みなさん，恋愛してますか？ どうも，Tattsumです．
 理系の学生なので，周りの友達の多くは理系なのですが，この質問をすると&amp;hellip;
  恋愛に興味がない 女の子が怖い 人とのコミュニケーションが取れません いや，モテないし リア充爆発しろ！  などなど，とにかく負のエネルギーに満ち溢れています．
@@ -231,10 +231,10 @@ wordやpowerpointなんかはまだしも，LaTeX なんて絶対に知りませ
     
     <item>
       <title>Part Time Job2</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/part-time-job2/</link>
+      <link>https://tattsum.com/2017/12/part-time-job2/</link>
       <pubDate>Mon, 18 Dec 2017 17:37:09 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/part-time-job2/</guid>
+      <guid>https://tattsum.com/2017/12/part-time-job2/</guid>
       <description>いきなりですが&amp;hellip;.
 みなさん
 遊園地って，行ってますか？？ どうも．Tattsumです．
@@ -272,10 +272,10 @@ Part-Time-Job
     
     <item>
       <title>Part Time Job</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/part-time-job/</link>
+      <link>https://tattsum.com/2017/12/part-time-job/</link>
       <pubDate>Sat, 16 Dec 2017 20:16:04 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/part-time-job/</guid>
+      <guid>https://tattsum.com/2017/12/part-time-job/</guid>
       <description>いきなりですが&amp;hellip;.
 みなさん
 遊園地って，行ってますか？？ どうも．Tattsumです． 先日の記事で，簡単に今までの自分を振り返りました！
@@ -314,10 +314,10 @@ https://www.higasiyama.jp/amusement_park/
     
     <item>
       <title>Reading</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/reading/</link>
+      <link>https://tattsum.com/2017/12/reading/</link>
       <pubDate>Fri, 15 Dec 2017 23:40:29 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/reading/</guid>
+      <guid>https://tattsum.com/2017/12/reading/</guid>
       <description>人生は20代で決まる． 人生は20代で決まる
 こんにちは Tattsumです． 皆さんはこの本を知っているでしょうか？？
 私自身は，ぶっちゃけ知りませんでした． この本の著者はTEDのトークで，スーパースピーチ と呼ばれるほどの有名人らしいのです．
@@ -351,10 +351,10 @@ https://www.higasiyama.jp/amusement_park/
     
     <item>
       <title>Reflection</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/reflection/</link>
+      <link>https://tattsum.com/2017/12/reflection/</link>
       <pubDate>Thu, 14 Dec 2017 20:57:21 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/reflection/</guid>
+      <guid>https://tattsum.com/2017/12/reflection/</guid>
       <description>初めまして このブログにいらしていただきありがとうございます．
 自己紹介しておきますね．私は愛知県の某大学に通っている大学生です． これを書いているころは大学4年生をしています．
 サークル活動に部活動，バイトに明け暮れていた大学生活だったんですが， 2年の終わりからいろんなことに手を出すようになりました．
@@ -386,10 +386,10 @@ php, uml, リーンスタートアップ，mvp, もう何が何だかでした
     
     <item>
       <title>はじめました</title>
-      <link>https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
+      <link>https://tattsum.com/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
       <pubDate>Wed, 13 Dec 2017 22:05:13 +0900</pubDate>
       
-      <guid>https://tattsum.github.io/tattsum/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
+      <guid>https://tattsum.com/2017/12/%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
       <description>はじめての記事投稿です．
 ついにBlogをリニューアルしました！！
 先日まではwordpressを使っていたんですが， つい気になっていたHugoに乗り換えました．
