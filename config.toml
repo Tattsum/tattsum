@@ -14,7 +14,7 @@
 
 baseURL = "https://tattsum.com/"
 languageCode = "ja-jp"
-defaultContentLanguage = "ja-jp"
+defaultContentLanguage = "en-us"
 title = "情報系の学生の旅路"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
