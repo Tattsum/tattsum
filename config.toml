@@ -13,8 +13,8 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://tattsum.github.io/tattsum/"
-languageCode = "en-jp"
-defaultContentLanguage = "en-jp"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja-jp"
 title = "情報系の学生の旅路"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
