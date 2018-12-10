@@ -13,7 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://tattsum.com/"
-languageCode = "ja-jp"
+languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "情報系の学生の旅路"
 theme = "hugo-tranquilpeak-theme"
