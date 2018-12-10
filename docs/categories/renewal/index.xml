@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renewal on 情報系の学生の旅路</title>
+    <link>https://tattsum.com/categories/renewal/</link>
+    <description>Recent content in Renewal on 情報系の学生の旅路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 09:48:46 +0900</lastBuildDate>
+    
+	<atom:link href="https://tattsum.com/categories/renewal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renewal</title>
+      <link>https://tattsum.com/2018/12/renewal/</link>
+      <pubDate>Mon, 10 Dec 2018 09:48:46 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2018/12/renewal/</guid>
+      <description>お久しぶりです ながらくhttps対応ができていなくて，いろいろとてこずっていました．
+Google 検索からもこのSiteは消えてしまっているので，どうしようかな～という感じです
+まあ，自分の備忘録的に更新をしていきます．</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tattsum.com/2018/12/renewal/</loc>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tattsum.com/2018/05/netbusiness/</loc>
     <lastmod>2018-05-19T11:04:08+09:00</lastmod>
   </url>
@@ -122,7 +127,7 @@
   
   <url>
     <loc>https://tattsum.com/tags/life/</loc>
-    <lastmod>2018-05-19T11:04:08+09:00</lastmod>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -159,6 +164,12 @@
   <url>
     <loc>https://tattsum.com/tags/machinelearning/</loc>
     <lastmod>2018-01-11T20:44:18+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/mylife/</loc>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -206,7 +217,7 @@
   
   <url>
     <loc>https://tattsum.com/post/</loc>
-    <lastmod>2018-05-19T11:04:08+09:00</lastmod>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -225,6 +236,18 @@
   <url>
     <loc>https://tattsum.com/tags/reflection/</loc>
     <lastmod>2018-01-01T23:17:55+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/renewal/</loc>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/renewal/</loc>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -272,7 +295,7 @@
   
   <url>
     <loc>https://tattsum.com/</loc>
-    <lastmod>2018-05-19T11:04:08+09:00</lastmod>
+    <lastmod>2018-12-10T09:48:46+09:00</lastmod>
     <priority>0</priority>
   </url>
   
