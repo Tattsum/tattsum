@@ -1,110 +1,144 @@
-
-
-  
-    
-  
-
-
-  
-
-
-
-
-  
-
-
-  
-
 <!DOCTYPE html>
-<html lang="en-jp">
+<html lang="en-us">
   <head>
     
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="generator" content="Hugo 0.48 with theme Tranquilpeak 0.4.3-BETA">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="Hugo 0.52 with theme Tranquilpeak 0.4.3-SNAPSHOT">
+<meta name="author" content="Tatsuma Kano">
+<meta name="keywords" content="機械学習">
+<meta name="description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
+何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
+理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
+ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
+で，最終的には&hellip;
+知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
+なので，ここで一旦，まとめていきたいと思います．
+そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
+もうちょっとだけ，具体的にいうと&hellip;
+ 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
+ 計算知能 この計算知能と呼ばれるものの中核に
+機械学習 があります．
+これには，
+ 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
+その機械学習を達成するアルゴリズムの一つに
+Neural Network があります．
+これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
+まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
+
+
+<meta property="og:description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
+何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
+理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
+ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
+で，最終的には&hellip;
+知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
+なので，ここで一旦，まとめていきたいと思います．
+そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
+もうちょっとだけ，具体的にいうと&hellip;
+ 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
+ 計算知能 この計算知能と呼ばれるものの中核に
+機械学習 があります．
+これには，
+ 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
+その機械学習を達成するアルゴリズムの一つに
+Neural Network があります．
+これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
+まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Machine Learning">
+<meta name="twitter:title" content="Machine Learning">
+<meta property="og:url" content="https://tattsum.com/2018/01/machine-learning/">
+<meta property="twitter:url" content="https://tattsum.com/2018/01/machine-learning/">
+<meta property="og:site_name" content="情報系の学生の旅路">
+<meta property="og:description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
+何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
+理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
+ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
+で，最終的には&hellip;
+知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
+なので，ここで一旦，まとめていきたいと思います．
+そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
+もうちょっとだけ，具体的にいうと&hellip;
+ 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
+ 計算知能 この計算知能と呼ばれるものの中核に
+機械学習 があります．
+これには，
+ 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
+その機械学習を達成するアルゴリズムの一つに
+Neural Network があります．
+これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
+まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
+<meta name="twitter:description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
+何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
+理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
+ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
+で，最終的には&hellip;
+知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
+なので，ここで一旦，まとめていきたいと思います．
+そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
+もうちょっとだけ，具体的にいうと&hellip;
+ 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
+ 計算知能 この計算知能と呼ばれるものの中核に
+機械学習 があります．
+これには，
+ 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
+その機械学習を達成するアルゴリズムの一つに
+Neural Network があります．
+これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
+まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
+<meta property="og:locale" content="en-us">
+
+  
+    <meta property="article:published_time" content="2018-01-11T20:44:18">
+  
+  
+    <meta property="article:modified_time" content="2018-01-11T20:44:18">
+  
+  
+  
+    
+      <meta property="article:section" content="tech">
+    
+      <meta property="article:section" content="machine learning">
+    
+  
+  
+    
+      <meta property="article:tag" content="machinelearning">
+    
+      <meta property="article:tag" content="deeplearning">
+    
+      <meta property="article:tag" content="ai">
+    
+  
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:image" content="https://www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=640">
+  <meta property="twitter:image" content="https://www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=640">
+
+
     <title>Machine Learning</title>
-    <meta name="author" content="Tatsuma Kano">
-    <meta name="keywords" content="機械学習">
 
-    <link rel="icon" href="https://tattsum.github.io/tattsum/favicon.png">
+    <link rel="icon" href="https://tattsum.com/favicon.png">
     
 
     
-    <meta name="description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
-何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
-理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
-ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
-で，最終的には&hellip;
-知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
-なので，ここで一旦，まとめていきたいと思います．
-そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
-もうちょっとだけ，具体的にいうと&hellip;
- 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
- 計算知能 この計算知能と呼ばれるものの中核に
-機械学習 があります．
-これには，
- 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
-その機械学習を達成するアルゴリズムの一つに
-Neural Network があります．
-これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
-まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
-    <meta property="og:description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
-何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
-理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
-ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
-で，最終的には&hellip;
-知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
-なので，ここで一旦，まとめていきたいと思います．
-そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
-もうちょっとだけ，具体的にいうと&hellip;
- 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
- 計算知能 この計算知能と呼ばれるものの中核に
-機械学習 があります．
-これには，
- 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
-その機械学習を達成するアルゴリズムの一つに
-Neural Network があります．
-これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
-まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
-    <meta property="og:type" content="blog">
-    <meta property="og:title" content="Machine Learning">
-    <meta property="og:url" content="/2018/01/machine-learning/">
-    <meta property="og:site_name" content="情報系の学生の旅路">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="情報系の学生の旅路">
-    <meta name="twitter:description" content="人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．
-何が何で，どれがどう，どういう関係かちゃんと分かっていますか？？
-理解するには，Deep LearningとかNeural Networkとかっていうものも入ってきます．
-ちゃんと人に説明することができますか？？ できないとこうなりますよ？？？
-で，最終的には&hellip;
-知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています． 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．
-なので，ここで一旦，まとめていきたいと思います．
-そもそも人工知能って？？ 人工知能(Artificial Intelligence)とは 人間䛾知能をコンピュータなどで再現しようとする技術のことです．わかりきっていることですが，AIとはこの人工知能の英訳，Artificial Intelligenceの頭文字をとったものです．なので，人工知能とAIはほぼ同意ととらえて問題ないと考えられます．
-もうちょっとだけ，具体的にいうと&hellip;
- 人工知能技術䛿コンピュータ自体䛾存在意義である 計算や処理䛾自動化 を担う中心的なテクノロジー．
- 計算知能 この計算知能と呼ばれるものの中核に
-機械学習 があります．
-これには，
- 正しいことを学ぶ必要 学習の仕方そのものを対象とした技術  が機械学習というものに含まれてきます．
-その機械学習を達成するアルゴリズムの一つに
-Neural Network があります．
-これは機械学習を達成するために人間の脳内䛾神経伝達䛾仕組みをモデルにしています． これを実現する技術としてDeeplearningがあります．
-まあ，簡単にですが説明しました． 今後はChainer使った実践をちょこちょこ書いていこうかな〜っと考えています．">
-    
-    
 
-    
-    
-
-    
-      <meta property="og:image" content="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=640">
-    
-
-    
-    
-    
-
-    
+    <link rel="canonical" href="https://tattsum.com/2018/01/machine-learning/">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
@@ -112,7 +146,7 @@ Neural Network があります．
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
     
     
-    <link rel="stylesheet" href="https://tattsum.github.io/tattsum/css/style-jsjn0006wyhpyzivf6yceb31gvpjatbcs3qzjvlumobfnugccvobqwxnnaj8.min.css" />
+    <link rel="stylesheet" href="https://tattsum.com/css/style-nnm2spxvve8onlujjlegkkytaehyadd4ksxc1hyzzq9a2wvtrgbljqyulomn.min.css" />
     
     
 
@@ -140,17 +174,17 @@ if (!doNotTrack) {
       <header id="header" data-behavior="4">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
-    <a class="header-title-link" href="https://tattsum.github.io/tattsum/">情報系の学生の旅路</a>
+    <a class="header-title-link" href="https://tattsum.com/">情報系の学生の旅路</a>
   </div>
   
     
       <a class="header-right-picture "
-         href="https://tattsum.github.io/tattsum/#about">
+         href="https://tattsum.com/#about">
     
     
     
       
-        <img class="header-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=90" alt="" />
+        <img class="header-picture" src="https://www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=90" alt="Author&#39;s picture" />
       
     
     </a>
@@ -161,8 +195,8 @@ if (!doNotTrack) {
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
-        <a href="https://tattsum.github.io/tattsum/#about">
-          <img class="sidebar-profile-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="" />
+        <a href="https://tattsum.com/#about">
+          <img class="sidebar-profile-picture" src="https://www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="Author&#39;s picture" />
         </a>
         <h4 class="sidebar-profile-name">Tatsuma Kano</h4>
         
@@ -174,7 +208,7 @@ if (!doNotTrack) {
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/">
+      <a class="sidebar-button-link " href="https://tattsum.com/">
     
       <i class="sidebar-button-icon fa fa-lg fa-home"></i>
       
@@ -184,7 +218,7 @@ if (!doNotTrack) {
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/categories">
+      <a class="sidebar-button-link " href="https://tattsum.com/categories">
     
       <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
       
@@ -194,7 +228,7 @@ if (!doNotTrack) {
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/tags">
+      <a class="sidebar-button-link " href="https://tattsum.com/tags">
     
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
@@ -204,7 +238,7 @@ if (!doNotTrack) {
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/archives">
+      <a class="sidebar-button-link " href="https://tattsum.com/archives">
     
       <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
       
@@ -214,7 +248,7 @@ if (!doNotTrack) {
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/#about">
+      <a class="sidebar-button-link " href="https://tattsum.com/#about">
     
       <i class="sidebar-button-icon fa fa-lg fa-question"></i>
       
@@ -238,7 +272,7 @@ if (!doNotTrack) {
 
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/#">
+      <a class="sidebar-button-link " href="https://tattsum.com/#">
     
       <i class="sidebar-button-icon fa fa-lg fa-stack-overflow"></i>
       
@@ -252,7 +286,7 @@ if (!doNotTrack) {
       
   <li class="sidebar-button">
     
-      <a class="sidebar-button-link " href="https://tattsum.github.io/tattsum/index.xml">
+      <a class="sidebar-button-link " href="https://tattsum.com/index.xml">
     
       <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
       
@@ -285,18 +319,18 @@ if (!doNotTrack) {
     
       <time itemprop="datePublished" datetime="2018-01-11T20:44:18&#43;09:00">
         
-   11, 2018
+  January 11, 2018
 
       </time>
     
     
   
   
-    <span></span>
+    <span>in</span>
     
-      <a class="category-link" href="https://tattsum.github.io/tattsum/categories/tech">tech</a>, 
+      <a class="category-link" href="https://tattsum.com/categories/tech">tech</a>, 
     
-      <a class="category-link" href="https://tattsum.github.io/tattsum/categories/machine-learning">machine learning</a>
+      <a class="category-link" href="https://tattsum.com/categories/machine-learning">machine learning</a>
     
   
 
@@ -308,7 +342,7 @@ if (!doNotTrack) {
             <div class="main-content-wrap">
               
 
-<p><img src="https://tattsum.github.io/tattsum/img/machine-learning/computer_jinkou_chinou.png" alt="ai" /></p>
+<p><img src="https://tattsum.com/img/machine-learning/computer_jinkou_chinou.png" alt="ai" /></p>
 
 <p>人工知能とか，AIとか，機械学習とかいろんな言葉が近年盛んに飛び交っています．</p>
 
@@ -319,11 +353,11 @@ if (!doNotTrack) {
 <p>ちゃんと人に説明することができますか？？
 できないとこうなりますよ？？？</p>
 
-<p><img src="https://tattsum.github.io/tattsum/img/machine-learning/ai_shigoto_ubau.png" alt="仕事奪われる" /></p>
+<p><img src="https://tattsum.com/img/machine-learning/ai_shigoto_ubau.png" alt="仕事奪われる" /></p>
 
 <p>で，最終的には&hellip;</p>
 
-<p><img src="https://tattsum.github.io/tattsum/img/machine-learning/ai_pet_family.png" alt="ペット" /></p>
+<p><img src="https://tattsum.com/img/machine-learning/ai_pet_family.png" alt="ペット" /></p>
 
 <p>知らない人ほど，AIが人間の仕事を奪うとか，某SF映画みたいに人工知能が世界を制圧するみたいことを言ってたりしています．
 実際にdeeplearningエンジニアや，データ解析者ではなくとも，これらの知識は持っていて損はないと思います．</p>
@@ -380,36 +414,36 @@ if (!doNotTrack) {
                 
                 
                   <div class="post-footer-tags">
-                    <span class="text-color-light text-small"></span><br/>
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
                     
-  <a class="tag tag--primary tag--small" href="https://tattsum.github.io/tattsum/tags/machinelearning/">machinelearning</a>
+  <a class="tag tag--primary tag--small" href="https://tattsum.com/tags/machinelearning/">machinelearning</a>
 
-  <a class="tag tag--primary tag--small" href="https://tattsum.github.io/tattsum/tags/deeplearning/">deeplearning</a>
+  <a class="tag tag--primary tag--small" href="https://tattsum.com/tags/deeplearning/">deeplearning</a>
 
-  <a class="tag tag--primary tag--small" href="https://tattsum.github.io/tattsum/tags/ai/">ai</a>
+  <a class="tag tag--primary tag--small" href="https://tattsum.com/tags/ai/">ai</a>
 
                   </div>
                 
               
             
-            
-  <div class="post-actions-wrap">
+            <div class="post-actions-wrap">
+  
       <nav >
         <ul class="post-actions post-action-nav">
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2018/03/reading3/" data-tooltip="Reading3">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.com/2018/03/reading3/" data-tooltip="Reading3">
               
                   <i class="fa fa-angle-left"></i>
-                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
                 </a>
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2018/01/newyear/" data-tooltip="Newyear">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.com/2018/01/newyear/" data-tooltip="Newyear">
               
-                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
                 </a>
             </li>
@@ -425,19 +459,19 @@ if (!doNotTrack) {
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -458,8 +492,8 @@ if (!doNotTrack) {
         </a>
       </li>
     </ul>
-  </div>
-
+  
+</div>
 
             
               
@@ -472,30 +506,30 @@ if (!doNotTrack) {
         </article>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2018 Tatsuma Kano. 
+    &copy; 2018 Tatsuma Kano. All Rights Reserved
   </span>
 </footer>
 
       </div>
       <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
-        
-  <div class="post-actions-wrap">
+        <div class="post-actions-wrap">
+  
       <nav >
         <ul class="post-actions post-action-nav">
           
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2018/03/reading3/" data-tooltip="Reading3">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.com/2018/03/reading3/" data-tooltip="Reading3">
               
                   <i class="fa fa-angle-left"></i>
-                  <span class="hide-xs hide-sm text-small icon-ml"></span>
+                  <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
                 </a>
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.github.io/tattsum/2018/01/newyear/" data-tooltip="Newyear">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://tattsum.com/2018/01/newyear/" data-tooltip="Newyear">
               
-                  <span class="hide-xs hide-sm text-small icon-mr"></span>
+                  <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
                 </a>
             </li>
@@ -511,19 +545,19 @@ if (!doNotTrack) {
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://tattsum.com/2018/01/machine-learning/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -544,8 +578,8 @@ if (!doNotTrack) {
         </a>
       </li>
     </ul>
-  </div>
-
+  
+</div>
 
       </div>
       <div id="share-options-bar" class="share-options-bar" data-behavior="4">
@@ -553,20 +587,20 @@ if (!doNotTrack) {
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2018%2F01%2Fmachine-learning%2F">
-          <i class="fa fa-facebook-official"></i><span>%!(EXTRA string=Facebook)</span>
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftattsum.com%2F2018%2F01%2Fmachine-learning%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2018%2F01%2Fmachine-learning%2F">
-          <i class="fa fa-twitter"></i><span>%!(EXTRA string=Twitter)</span>
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Ftattsum.com%2F2018%2F01%2Fmachine-learning%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Ftattsum.github.io%2Ftattsum%2F2018%2F01%2Fmachine-learning%2F">
-          <i class="fa fa-google-plus"></i><span>%!(EXTRA string=Google&#43;)</span>
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Ftattsum.com%2F2018%2F01%2Fmachine-learning%2F">
+          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
         </a>
       </li>
     
@@ -581,7 +615,7 @@ if (!doNotTrack) {
       <i class="fa fa-remove"></i>
     </div>
     
-      <img id="about-card-picture" src="//www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="" />
+      <img id="about-card-picture" src="https://www.gravatar.com/avatar/dad990b8574fb79834a3991753ab2e11?s=110" alt="Author&#39;s picture" />
     
     <h4 id="about-card-name">Tatsuma Kano</h4>
     
@@ -615,18 +649,18 @@ if (!doNotTrack) {
       <i class="search-icon fa fa-search"></i>
       <form id="algolia-search-form">
         <input type="text" id="algolia-search-input" name="search"
-          class="form-control input--large search-input" placeholder="" />
+          class="form-control input--large search-input" placeholder="Search" />
       </form>
     </div>
     <div class="modal-body">
-      <div class="no-result text-color-light text-center"></div>
+      <div class="no-result text-color-light text-center">no post found</div>
       <div class="results">
         
         
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/05/netbusiness/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/05/netbusiness/">
                 <h3 class="media-heading">Netbusiness</h3>
               </a>
               <span class="media-meta">
@@ -651,7 +685,7 @@ if (!doNotTrack) {
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/04/life/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/04/life/">
                 <h3 class="media-heading">Life</h3>
               </a>
               <span class="media-meta">
@@ -697,7 +731,7 @@ if (!doNotTrack) {
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/03/like2/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/03/like2/">
                 <h3 class="media-heading">Like2</h3>
               </a>
               <span class="media-meta">
@@ -723,7 +757,7 @@ if (!doNotTrack) {
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/03/reading3/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/03/reading3/">
                 <h3 class="media-heading">Reading3</h3>
               </a>
               <span class="media-meta">
@@ -750,7 +784,7 @@ if (!doNotTrack) {
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/01/machine-learning/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/01/machine-learning/">
                 <h3 class="media-heading">Machine Learning</h3>
               </a>
               <span class="media-meta">
@@ -784,7 +818,7 @@ Neural Network があります．
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2018/01/newyear/">
+              <a class="link-unstyled" href="https://tattsum.com/2018/01/newyear/">
                 <h3 class="media-heading">Newyear</h3>
               </a>
               <span class="media-meta">
@@ -827,7 +861,7 @@ Tattsum
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/reading2/">
+              <a class="link-unstyled" href="https://tattsum.com/2017/12/reading2/">
                 <h3 class="media-heading">Reading2</h3>
               </a>
               <span class="media-meta">
@@ -862,7 +896,7 @@ Tattsum
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/like/">
+              <a class="link-unstyled" href="https://tattsum.com/2017/12/like/">
                 <h3 class="media-heading">Like</h3>
               </a>
               <span class="media-meta">
@@ -908,7 +942,7 @@ wordやpowerpointなんかはまだしも，LaTeX なんて絶対に知りませ
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/part-time-job2/">
+              <a class="link-unstyled" href="https://tattsum.com/2017/12/part-time-job2/">
                 <h3 class="media-heading">Part Time Job2</h3>
               </a>
               <span class="media-meta">
@@ -957,7 +991,7 @@ Part-Time-Job
           <div class="media">
             
             <div class="media-body">
-              <a class="link-unstyled" href="https://tattsum.github.io/tattsum/2017/12/part-time-job/">
+              <a class="link-unstyled" href="https://tattsum.com/2017/12/part-time-job/">
                 <h3 class="media-heading">Part Time Job</h3>
               </a>
               <span class="media-meta">
@@ -1008,9 +1042,9 @@ https://www.higasiyama.jp/amusement_park/
     </div>
     <div class="modal-footer">
       <p class="results-count text-medium"
-         data-message-zero=""
-         data-message-one=""
-         data-message-other="">
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
          13 posts found
       </p>
     </div>
@@ -1019,7 +1053,7 @@ https://www.higasiyama.jp/amusement_park/
     
   
     
-    <div id="cover" style="background-image:url('https://tattsum.github.io/tattsum/images/cover.jpg');"></div>
+    <div id="cover" style="background-image:url('https://tattsum.com/images/cover.jpg');"></div>
   
 
 
@@ -1031,9 +1065,23 @@ https://www.higasiyama.jp/amusement_park/
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
 
-<script src="https://tattsum.github.io/tattsum/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+<script src="https://tattsum.com/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
 
 
+<script lang="javascript">
+window.onload = updateMinWidth;
+window.onresize = updateMinWidth;
+document.getElementById("sidebar").addEventListener("transitionend", updateMinWidth);
+function updateMinWidth() {
+  var sidebar = document.getElementById("sidebar");
+  var main = document.getElementById("main");
+  main.style.minWidth = "";
+  var w1 = getComputedStyle(main).getPropertyValue("min-width");
+  var w2 = getComputedStyle(sidebar).getPropertyValue("width");
+  var w3 = getComputedStyle(sidebar).getPropertyValue("left");
+  main.style.minWidth = `calc(${w1} - ${w2} - ${w3})`;
+}
+</script>
 
 <script>
 $(document).ready(function() {
@@ -1052,7 +1100,7 @@ $(document).ready(function() {
     
       <script>
         var disqus_config = function () {
-          this.page.url = 'https:\/\/tattsum.github.io\/tattsum\/2018\/01\/machine-learning\/';
+          this.page.url = 'https:\/\/tattsum.com\/2018\/01\/machine-learning\/';
           
             this.page.identifier = '\/2018\/01\/machine-learning\/'
           
@@ -1073,6 +1121,7 @@ $(document).ready(function() {
       </script>
     
   
+
 
 
 
