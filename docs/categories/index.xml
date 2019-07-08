@@ -6,22 +6,13 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2017 17:37:09 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 09:22:23 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Amusement</title>
-      <link>https://tattsum.com/categories/amusement/</link>
-      <pubDate>Mon, 18 Dec 2017 17:37:09 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/amusement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
+      <title>career</title>
       <link>https://tattsum.com/categories/career/</link>
       <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
       
@@ -30,16 +21,7 @@
     </item>
     
     <item>
-      <title>Detective</title>
-      <link>https://tattsum.com/categories/detective/</link>
-      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/detective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Future</title>
+      <title>future</title>
       <link>https://tattsum.com/categories/future/</link>
       <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
       
@@ -48,11 +30,38 @@
     </item>
     
     <item>
-      <title>How Fun</title>
-      <link>https://tattsum.com/categories/how-fun/</link>
-      <pubDate>Mon, 18 Dec 2017 17:37:09 +0900</pubDate>
+      <title>plan</title>
+      <link>https://tattsum.com/categories/plan/</link>
+      <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
       
-      <guid>https://tattsum.com/categories/how-fun/</guid>
+      <guid>https://tattsum.com/categories/plan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reflection</title>
+      <link>https://tattsum.com/categories/reflection/</link>
+      <pubDate>Mon, 31 Dec 2018 21:10:31 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mylife</title>
+      <link>https://tattsum.com/categories/mylife/</link>
+      <pubDate>Mon, 10 Dec 2018 09:48:46 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/mylife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renewal</title>
+      <link>https://tattsum.com/categories/renewal/</link>
+      <pubDate>Mon, 10 Dec 2018 09:48:46 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/renewal/</guid>
       <description></description>
     </item>
     
@@ -66,42 +75,6 @@
     </item>
     
     <item>
-      <title>Like</title>
-      <link>https://tattsum.com/categories/like/</link>
-      <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/like/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Love</title>
-      <link>https://tattsum.com/categories/love/</link>
-      <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/love/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://tattsum.com/categories/machine-learning/</link>
-      <pubDate>Thu, 11 Jan 2018 20:44:18 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mylife</title>
-      <link>https://tattsum.com/categories/mylife/</link>
-      <pubDate>Mon, 10 Dec 2018 09:48:46 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/mylife/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Netbusiness</title>
       <link>https://tattsum.com/categories/netbusiness/</link>
       <pubDate>Sat, 19 May 2018 11:04:08 +0900</pubDate>
@@ -111,52 +84,7 @@
     </item>
     
     <item>
-      <title>Novel</title>
-      <link>https://tattsum.com/categories/novel/</link>
-      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/novel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plan</title>
-      <link>https://tattsum.com/categories/plan/</link>
-      <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/plan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reading</title>
-      <link>https://tattsum.com/categories/reading/</link>
-      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reflection</title>
-      <link>https://tattsum.com/categories/reflection/</link>
-      <pubDate>Mon, 31 Dec 2018 21:10:31 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/reflection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Renewal</title>
-      <link>https://tattsum.com/categories/renewal/</link>
-      <pubDate>Mon, 10 Dec 2018 09:48:46 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/renewal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story</title>
+      <title>story</title>
       <link>https://tattsum.com/categories/story/</link>
       <pubDate>Thu, 05 Apr 2018 13:16:57 +0900</pubDate>
       
@@ -165,7 +93,25 @@
     </item>
     
     <item>
-      <title>Students</title>
+      <title>like</title>
+      <link>https://tattsum.com/categories/like/</link>
+      <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/like/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>https://tattsum.com/categories/love/</link>
+      <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>students</title>
       <link>https://tattsum.com/categories/students/</link>
       <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
       
@@ -174,11 +120,65 @@
     </item>
     
     <item>
-      <title>Tech</title>
+      <title>machine learning</title>
+      <link>https://tattsum.com/categories/machine-learning/</link>
+      <pubDate>Thu, 11 Jan 2018 20:44:18 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
       <link>https://tattsum.com/categories/tech/</link>
       <pubDate>Thu, 11 Jan 2018 20:44:18 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>detective</title>
+      <link>https://tattsum.com/categories/detective/</link>
+      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/detective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>novel</title>
+      <link>https://tattsum.com/categories/novel/</link>
+      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>https://tattsum.com/categories/reading/</link>
+      <pubDate>Tue, 26 Dec 2017 21:55:08 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amusement</title>
+      <link>https://tattsum.com/categories/amusement/</link>
+      <pubDate>Mon, 18 Dec 2017 17:37:09 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/amusement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how-fun</title>
+      <link>https://tattsum.com/categories/how-fun/</link>
+      <pubDate>Mon, 18 Dec 2017 17:37:09 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/how-fun/</guid>
       <description></description>
     </item>
     
