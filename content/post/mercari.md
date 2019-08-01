@@ -1,6 +1,7 @@
 ---
 title: "Mercari"
 date: 2019-07-26T19:58:29+09:00
+draft: false
 categories:
 - Life
 - Netbusiness
@@ -41,11 +42,11 @@ kindleを始めとする電子書籍が出てきている中で，本って新�
 こんな感じです．
 意外と簡単でしょ？？
 
-![読書](/img/mercari/mercari_logo_vertical.png)
+![読書](/img/mercari/reading_girl.png)
 
 からの
 
-![売る](/img/mercari/mercari_logo_vertical.png)
+![売る](/img/mercari/money_fuyouhin_man_uru.png)
 
 
 人って，制限があり，目的意識があるとより質の高い学びを行うことが可能です．
