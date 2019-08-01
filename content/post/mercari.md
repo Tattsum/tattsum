@@ -2,14 +2,54 @@
 title: "Mercari"
 date: 2019-07-26T19:58:29+09:00
 categories:
-- category
-- subcategory
+- Life
+- Netbusiness
 tags:
-- tag1
-- tag2
+- life
+- Mercari
+- reading
 keywords:
 - tech
-#thumbnailImage: //example.com/image.jpg
+thumbnailImage: /img/mercari/mercari_logo_vertical.png
 ---
 
 <!--more-->
+
+みなさまこんにちは Tattsumです．
+
+最近は読書をしていますか？
+本をちゃんと読んでますか？？
+
+kindleを始めとする電子書籍が出てきている中で，本って新書だったり技術書だったりを買うとめっちゃかさばったり，重かったり，保管場所を取られたりと大変ですよね．
+
+しかも，アメリカの大学のデータでは，一回読んだ本をもう一度手にとって読み返すということは10％にもみたないといった研究データも出ています．
+
+そんなときにおすすめしたいのが **メルカリ読書法です**
+
+# メルカリ読書法
+
+その概要は以下の通りです．
+
+```
+1. 本を買う
+2. メルカリに買った本を出品する
+3. 誰かが落札するまでに本を読み切る
+4. 落札されたら発送する
+5. 新しい本を買う
+```
+
+こんな感じです．
+意外と簡単でしょ？？
+
+![読書](/img/mercari/mercari_logo_vertical.png)
+
+からの
+
+![売る](/img/mercari/mercari_logo_vertical.png)
+
+
+人って，制限があり，目的意識があるとより質の高い学びを行うことが可能です．
+
+目的意識は，本を買うときに考えて，制限時間は本が売れるまで
+
+意外とやってみると面白いのでぜひチャレンジしてみてください
