@@ -6,10 +6,28 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 19:58:29 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 23:13:00 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>career</title>
+      <link>https://tattsum.com/categories/career/</link>
+      <pubDate>Wed, 30 Oct 2019 23:13:00 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future</title>
+      <link>https://tattsum.com/categories/future/</link>
+      <pubDate>Wed, 30 Oct 2019 23:13:00 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/future/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Life</title>
@@ -26,24 +44,6 @@
       <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/netbusiness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>https://tattsum.com/categories/career/</link>
-      <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>future</title>
-      <link>https://tattsum.com/categories/future/</link>
-      <pubDate>Mon, 07 Jan 2019 09:22:23 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/future/</guid>
       <description></description>
     </item>
     

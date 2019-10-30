@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tattsum.com/categories/career/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tattsum.com/categories/</loc>
-    <lastmod>2019-07-26T19:58:29+09:00</lastmod>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/future/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/post/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/reflection/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/2019/10/reflection2/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/</loc>
+    <lastmod>2019-10-30T23:13:00+09:00</lastmod>
   </url>
   
   <url>
@@ -33,33 +68,8 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/post/</loc>
-    <lastmod>2019-07-26T19:58:29+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/tags/reading/</loc>
     <lastmod>2019-07-26T19:58:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/</loc>
-    <lastmod>2019-07-26T19:58:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/</loc>
-    <lastmod>2019-07-26T19:58:29+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/career/</loc>
-    <lastmod>2019-01-07T09:22:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/future/</loc>
-    <lastmod>2019-01-07T09:22:23+09:00</lastmod>
   </url>
   
   <url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>https://tattsum.com/categories/plan/</loc>
-    <lastmod>2019-01-07T09:22:23+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/reflection/</loc>
     <lastmod>2019-01-07T09:22:23+09:00</lastmod>
   </url>
   
@@ -118,12 +123,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/renewal/</loc>
+    <loc>https://tattsum.com/categories/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/renewal/</loc>
+    <loc>https://tattsum.com/tags/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
@@ -168,12 +173,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/love/</loc>
+    <loc>https://tattsum.com/tags/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/love/</loc>
+    <loc>https://tattsum.com/categories/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   

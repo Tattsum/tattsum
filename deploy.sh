@@ -1,6 +1,6 @@
 #!/bin/sh
 
-hugo -t tranquilpeak-theme
+hugo -t tranquilpeak
 cp -p -f -R public/* docs
 
 echo "Finish!!hugo create!"
