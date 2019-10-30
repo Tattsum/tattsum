@@ -31,10 +31,10 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-name = "Tatsuma Kano"
-bio = "これは個人的な発言であり、所属団体等を代表する発言ではありません"
-job = "とある大学の学生"
-location = "Japan"
+  name = "Tatsuma Kano"
+  bio = "これは個人的な発言であり、所属団体等を代表する発言ではありません"
+  job = "とある大学の学生"
+  location = "Japan"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "kurohari35@gmail.com"
   # Your profile picture
