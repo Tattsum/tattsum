@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 情報系の学生の旅路</title>
@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>Netbusiness</title>
-      <link>https://tattsum.com/categories/netbusiness/</link>
-      <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/netbusiness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>life</title>
       <link>https://tattsum.com/categories/life/</link>
       <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Netbusiness</title>
+      <link>https://tattsum.com/categories/netbusiness/</link>
+      <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/netbusiness/</guid>
       <description></description>
     </item>
     
