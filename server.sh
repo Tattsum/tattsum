@@ -1,3 +1,3 @@
 #!/bin/sh
 
-hugo server -t tranquilpeak-theme -w -D
+hugo server -t tranquilpeak -w -D
