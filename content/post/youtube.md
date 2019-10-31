@@ -1,7 +1,7 @@
 ---
 title: "Youtube"
 date: 2019-10-31T09:43:27+09:00
-draft: true
+draft: false
 categories:
 - youtube
 - career
