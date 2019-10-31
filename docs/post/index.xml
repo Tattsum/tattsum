@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2019 09:43:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 22:11:54 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HTML5up</title>
+      <link>https://tattsum.com/2019/10/html5up/</link>
+      <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/10/html5up/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Youtube</title>

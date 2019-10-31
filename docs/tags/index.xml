@@ -6,10 +6,37 @@
     <description>Recent content in Tags on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2019 09:43:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 22:11:54 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HomePage</title>
+      <link>https://tattsum.com/tags/homepage/</link>
+      <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Page Application</title>
+      <link>https://tattsum.com/tags/single-page-application/</link>
+      <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/single-page-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://tattsum.com/tags/tech/</link>
+      <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>students</title>
@@ -152,15 +179,6 @@
       <pubDate>Sun, 11 Mar 2018 07:46:31 +0900</pubDate>
       
       <guid>https://tattsum.com/tags/%E5%AD%A6%E7%94%9F%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://tattsum.com/tags/tech/</link>
-      <pubDate>Wed, 07 Mar 2018 16:24:52 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/tech/</guid>
       <description></description>
     </item>
     

@@ -3,12 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tattsum.com/categories/career/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
+    <loc>https://tattsum.com/categories/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/</loc>
+    <loc>https://tattsum.com/tags/homepage/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/homepage/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/html5up/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/2019/10/html5up/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/post/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/single-page-application/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/tech/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/tech/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/</loc>
+    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/career/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
@@ -18,17 +68,7 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/post/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/tags/students/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
@@ -38,22 +78,17 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/youtube/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/categories/youtube/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/youtuber/</loc>
+    <loc>https://tattsum.com/tags/youtube/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/</loc>
+    <loc>https://tattsum.com/tags/youtuber/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
@@ -148,12 +183,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/renewal/</loc>
+    <loc>https://tattsum.com/categories/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/renewal/</loc>
+    <loc>https://tattsum.com/tags/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
@@ -198,12 +233,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/love/</loc>
+    <loc>https://tattsum.com/tags/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/love/</loc>
+    <loc>https://tattsum.com/categories/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   
@@ -219,11 +254,6 @@
   
   <url>
     <loc>https://tattsum.com/2018/03/reading3/</loc>
-    <lastmod>2018-03-07T16:24:52+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/tech/</loc>
     <lastmod>2018-03-07T16:24:52+09:00</lastmod>
   </url>
   
@@ -249,11 +279,6 @@
   
   <url>
     <loc>https://tattsum.com/tags/machinelearning/</loc>
-    <lastmod>2018-01-11T20:44:18+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/tech/</loc>
     <lastmod>2018-01-11T20:44:18+09:00</lastmod>
   </url>
   
