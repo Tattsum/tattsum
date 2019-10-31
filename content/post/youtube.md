@@ -33,7 +33,7 @@ thumbnailImage: /img/youtube/douga_haishin_youtuber.png
 
 今，世界中の人々が自分の知識を毎日発信することが可能となっています．人気があるYoutuberは以下のとおりです．
 
-![日本Youtuberランキング](/img/youtube/YouTubeランキング.jpg "参考 yutura")
+![日本Youtuberランキング](/img/youtube/youtuberank.jpg "参考 yutura")
 
 これは，[yutura](https://ytranking.net/ranking/)というサイトでのランキングです．
 
