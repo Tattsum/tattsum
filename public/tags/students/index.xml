@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>students on 情報系の学生の旅路</title>
+    <link>https://tattsum.com/tags/students/</link>
+    <description>Recent content in students on 情報系の学生の旅路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2019 09:43:27 +0900</lastBuildDate>
+    
+	<atom:link href="https://tattsum.com/tags/students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Youtube</title>
+      <link>https://tattsum.com/2019/10/youtube/</link>
+      <pubDate>Thu, 31 Oct 2019 09:43:27 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/10/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
