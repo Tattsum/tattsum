@@ -4,7 +4,47 @@
   
   <url>
     <loc>https://tattsum.com/categories/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/post/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/software/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/2019/11/software/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/software/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/tech/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/tech/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/</loc>
+    <lastmod>2019-11-01T18:22:11+09:00</lastmod>
   </url>
   
   <url>
@@ -28,32 +68,7 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/post/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/tags/single-page-application/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/tech/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/tech/</loc>
-    <lastmod>2019-10-31T22:11:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/</loc>
     <lastmod>2019-10-31T22:11:54+09:00</lastmod>
   </url>
   
@@ -183,12 +198,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/renewal/</loc>
+    <loc>https://tattsum.com/tags/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/renewal/</loc>
+    <loc>https://tattsum.com/categories/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
@@ -233,12 +248,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/love/</loc>
+    <loc>https://tattsum.com/tags/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/love/</loc>
+    <loc>https://tattsum.com/categories/love/</loc>
     <lastmod>2018-03-11T07:46:31+09:00</lastmod>
   </url>
   

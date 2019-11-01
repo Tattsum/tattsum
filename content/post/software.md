@@ -1,7 +1,7 @@
 ---
 title: "Software"
 date: 2019-11-01T18:22:11+09:00
-draft: True
+draft: False
 categories:
 - Software
 - tech
