@@ -6,10 +6,19 @@
     <description>Recent content in tech on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 18:22:11 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 21:19:27 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Software2</title>
+      <link>https://tattsum.com/2019/11/software2/</link>
+      <pubDate>Sun, 03 Nov 2019 21:19:27 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/11/software2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Software</title>
