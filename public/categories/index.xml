@@ -6,15 +6,24 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 09:47:13 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 10:43:17 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>career</title>
+      <link>https://tattsum.com/categories/career/</link>
+      <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Software</title>
       <link>https://tattsum.com/categories/software/</link>
-      <pubDate>Tue, 05 Nov 2019 09:47:13 +0900</pubDate>
+      <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/software/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>tech</title>
       <link>https://tattsum.com/categories/tech/</link>
-      <pubDate>Tue, 05 Nov 2019 09:47:13 +0900</pubDate>
+      <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/tech/</guid>
       <description></description>
@@ -44,15 +53,6 @@
       <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/html5up/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>https://tattsum.com/categories/career/</link>
-      <pubDate>Thu, 31 Oct 2019 09:43:27 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/career/</guid>
       <description></description>
     </item>
     
