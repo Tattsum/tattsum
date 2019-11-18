@@ -6,10 +6,28 @@
     <description>Recent content in Tags on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2019 17:34:30 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 21:15:35 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>life</title>
+      <link>https://tattsum.com/tags/life/</link>
+      <pubDate>Mon, 18 Nov 2019 21:15:35 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peace</title>
+      <link>https://tattsum.com/tags/peace/</link>
+      <pubDate>Mon, 18 Nov 2019 21:15:35 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/peace/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reading</title>
@@ -102,15 +120,6 @@
     </item>
     
     <item>
-      <title>life</title>
-      <link>https://tattsum.com/tags/life/</link>
-      <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mercari</title>
       <link>https://tattsum.com/tags/mercari/</link>
       <pubDate>Fri, 26 Jul 2019 19:58:29 +0900</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sat, 19 May 2018 11:04:08 +0900</pubDate>
       
       <guid>https://tattsum.com/tags/work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>peace</title>
-      <link>https://tattsum.com/tags/peace/</link>
-      <pubDate>Thu, 05 Apr 2018 13:16:57 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/peace/</guid>
       <description></description>
     </item>
     
