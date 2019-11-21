@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 21:15:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 17:03:43 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux</title>
+      <link>https://tattsum.com/2019/11/linux/</link>
+      <pubDate>Thu, 21 Nov 2019 17:03:43 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/11/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Life2</title>
