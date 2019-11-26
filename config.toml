@@ -26,9 +26,9 @@ canonifyurls = true
   post = "/:year/:month/:slug/"
 
 [taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  archive = "archives"
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
 
 [author]
   name = "Tatsuma Kano"

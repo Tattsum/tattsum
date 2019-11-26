@@ -6,10 +6,28 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Nov 2019 21:15:35 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 17:03:43 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>https://tattsum.com/categories/linux/</link>
+      <pubDate>Thu, 21 Nov 2019 17:03:43 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://tattsum.com/categories/tech/</link>
+      <pubDate>Thu, 21 Nov 2019 17:03:43 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/tech/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Life</title>
@@ -44,15 +62,6 @@
       <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://tattsum.com/categories/tech/</link>
-      <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/tech/</guid>
       <description></description>
     </item>
     
