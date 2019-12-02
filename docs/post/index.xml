@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2019 17:03:43 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 17:09:29 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advent Calender</title>
+      <link>https://tattsum.com/2019/12/advent-calender/</link>
+      <pubDate>Mon, 02 Dec 2019 17:09:29 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/12/advent-calender/</guid>
+      <description>&lt;hr&gt;</description>
+    </item>
     
     <item>
       <title>Linux</title>
@@ -217,7 +226,7 @@
 例えば&amp;hellip;
  大学生同士 大学院生と大学生 社会人と大学生 教授とゼミ生  などなど，それぞれの形で恋愛をしていると思います．
 まだ，人生の中で恋愛をしたことがありませんという方，
-こんなに素晴らしいことはないと思うので，是非恋愛を経験してみてください！ でも，恋愛って，大変なんでしょ？辛い？悲しいんでしょ？  そんな辛い思いとか，悲しい思いとか全くしない，悩みのない，難のない変哲の人生で楽しいですか？
+こんなに素晴らしいことはないと思うので，是非恋愛を経験してみてください！ でも，恋愛って，大変なんでしょ？辛い？悲しいんでしょ？ そんな辛い思いとか，悲しい思いとか全くしない，悩みのない，難のない変哲の人生で楽しいですか？
 自分が心から楽しいと感じていますか？
 理系男性はなかなか恋愛をしようとしません．自分自身，恋愛をこれまで多くしてきたとは言い難いです．
 でも，そんなちょっとした恋愛でも大きな大きな意味を持っていました．
@@ -422,7 +431,7 @@ https://tattsum.com/2017/12/reflection/
 https://www.higasiyama.jp/amusement_park/
 どーん
 はいここです．
-  東山動植物園は行ったことあるけど&amp;hellip; え，遊園地があるなんて知らなかった&amp;hellip; 名古屋の遊園地なんて大したことないんでしょ？？ 動物園に併設されている遊園地なんてなんか&amp;hellip;  エトセトラエトセトラ&amp;hellip;
+ 東山動植物園は行ったことあるけど&amp;hellip; え，遊園地があるなんて知らなかった&amp;hellip; 名古屋の遊園地なんて大したことないんでしょ？？ 動物園に併設されている遊園地なんてなんか&amp;hellip;  エトセトラエトセトラ&amp;hellip;
 実際自分もアルバイト求人を見つけるまで存在自体を知りませんでした&amp;hellip; と言うか，動物園自体そんなに知りませんでした
 んー，辛い
 イケメンゴリラのシャバーニ，フクロテナガザルのケイジくんなどなど，聞いたこともありませんでした&amp;hellip;
@@ -518,7 +527,8 @@ php, uml, リーンスタートアップ，mvp, もう何が何だかでした
 コーディングもしていきました． Ruby rails go swift Python
 とりあえず，興味があったもの全部に手を出しました．
 学生団体の運営もしたり，Startup Weekendを自分で開催したりと時間がどんだけあっても足りないってくらいのことをしました．
-でもふと思ったんです．</description>
+でもふと思ったんです．
+今の自分って結局何がしたいんだろう？？</description>
     </item>
     
     <item>
