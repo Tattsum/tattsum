@@ -6,10 +6,19 @@
     <description>Recent content in Ubuntu on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2019 17:03:43 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 12:50:37 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Memo</title>
+      <link>https://tattsum.com/2019/12/memo/</link>
+      <pubDate>Thu, 19 Dec 2019 12:50:37 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/12/memo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linux</title>

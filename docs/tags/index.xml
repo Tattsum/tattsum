@@ -6,10 +6,28 @@
     <description>Recent content in Tags on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 17:09:29 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 12:50:37 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linux</title>
+      <link>https://tattsum.com/tags/linux/</link>
+      <pubDate>Thu, 19 Dec 2019 12:50:37 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://tattsum.com/tags/ubuntu/</link>
+      <pubDate>Thu, 19 Dec 2019 12:50:37 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/ubuntu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>advent-calender</title>
@@ -35,24 +53,6 @@
       <pubDate>Mon, 02 Dec 2019 17:09:29 +0900</pubDate>
       
       <guid>https://tattsum.com/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://tattsum.com/tags/linux/</link>
-      <pubDate>Thu, 21 Nov 2019 17:03:43 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubuntu</title>
-      <link>https://tattsum.com/tags/ubuntu/</link>
-      <pubDate>Thu, 21 Nov 2019 17:03:43 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/ubuntu/</guid>
       <description></description>
     </item>
     
