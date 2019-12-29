@@ -1,7 +1,7 @@
 ---
 title: "Memo"
 date: 2019-12-19T12:50:37+09:00
-cdraft: False
+draft: False
 categories:
 - tech
 - linux
@@ -10,7 +10,6 @@ tags:
 - Ubuntu
 keywords:
 - linux
-keywords:
 - tech
 #thumbnailImage: //example.com/image.jpg
 ---
