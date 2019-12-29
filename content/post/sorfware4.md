@@ -31,8 +31,7 @@ thumbnailImage: /img/software4/group_women.png
 
 MicrosoftやGoogleといった超世界的企業にて，ソフトウェアに携わってから，日本のIncrementsという「Qiita」というエンジニア向けの技術情報プラットフォームを運営している会社に在籍し，今は独立してソフトウェアコンサルをしている及川卓也さんが書かれた本になります．
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=tattsum07-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4822289915&linkId=1408b20330e7c2c362b207adb9d360ee&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
-    </iframe>
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=tattsum07-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4822289915&linkId=1408b20330e7c2c362b207adb9d360ee&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
 もし，読んでいないって方がいたら，必ずと言っていいほど読んでほしい1冊になります！
 
