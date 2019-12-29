@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 12:50:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2019 05:30:51 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Job Hunting</title>
+      <link>https://tattsum.com/2019/12/job-hunting/</link>
+      <pubDate>Mon, 30 Dec 2019 05:30:51 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2019/12/job-hunting/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Memo</title>
