@@ -6,13 +6,31 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2019 05:30:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 18:05:50 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Life</title>
+      <title>career</title>
+      <link>https://tattsum.com/categories/career/</link>
+      <pubDate>Tue, 31 Dec 2019 18:05:50 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>future</title>
+      <link>https://tattsum.com/categories/future/</link>
+      <pubDate>Tue, 31 Dec 2019 18:05:50 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/future/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
       <link>https://tattsum.com/categories/life/</link>
       <pubDate>Mon, 30 Dec 2019 05:30:51 +0900</pubDate>
       
@@ -39,20 +57,11 @@
     </item>
     
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://tattsum.com/categories/tech/</link>
       <pubDate>Thu, 19 Dec 2019 12:50:37 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>career</title>
-      <link>https://tattsum.com/categories/career/</link>
-      <pubDate>Wed, 06 Nov 2019 10:43:17 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/career/</guid>
       <description></description>
     </item>
     
@@ -89,15 +98,6 @@
       <pubDate>Thu, 31 Oct 2019 09:43:27 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>future</title>
-      <link>https://tattsum.com/categories/future/</link>
-      <pubDate>Wed, 30 Oct 2019 23:13:00 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/future/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Tags on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2019 05:30:51 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 18:05:50 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reflection</title>
+      <link>https://tattsum.com/tags/reflection/</link>
+      <pubDate>Tue, 31 Dec 2019 18:05:50 +0900</pubDate>
+      
+      <guid>https://tattsum.com/tags/reflection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>life</title>
@@ -143,15 +152,6 @@
       <pubDate>Thu, 31 Oct 2019 09:43:27 +0900</pubDate>
       
       <guid>https://tattsum.com/tags/youtuber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reflection</title>
-      <link>https://tattsum.com/tags/reflection/</link>
-      <pubDate>Wed, 30 Oct 2019 23:13:00 +0900</pubDate>
-      
-      <guid>https://tattsum.com/tags/reflection/</guid>
       <description></description>
     </item>
     
