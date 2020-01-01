@@ -1,7 +1,7 @@
 ---
 title: "Newyear3"
 date: 2020-01-01T14:44:33+09:00
-draft: True
+draft: False
 categories:
 - career
 - future
