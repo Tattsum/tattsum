@@ -22,6 +22,17 @@ thumbnailImage: /img/youtube/douga_haishin_youtuber.png
 
 年始って，意外と時間ありませんか？ゴロゴロと家ですごいしているだけの人も多いと思います．そんなときについつい，YouTubeを見ると思います．エンジニアなら，これから社会に出るならぜひ見てほしいYoutuberをここで紹介したいと思います．
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- スクエア広告 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2437341325275935"
+     data-ad-slot="4766236558"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 # 絶対にみるべきYoutuber!
 
