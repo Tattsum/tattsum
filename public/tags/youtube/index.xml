@@ -6,10 +6,19 @@
     <description>Recent content in youtube on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2019 09:43:27 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 18:29:02 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Youtuber</title>
+      <link>https://tattsum.com/2020/01/youtuber/</link>
+      <pubDate>Thu, 02 Jan 2020 18:29:02 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2020/01/youtuber/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Youtube</title>

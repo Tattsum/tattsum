@@ -4,12 +4,57 @@
   
   <url>
     <loc>https://tattsum.com/categories/career/</loc>
-    <lastmod>2020-01-01T14:44:33+09:00</lastmod>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://tattsum.com/categories/</loc>
-    <lastmod>2020-01-01T14:44:33+09:00</lastmod>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/life/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/post/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/students/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/youtube/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/categories/youtube/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/2020/01/youtuber/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/tags/youtuber/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tattsum.com/</loc>
+    <lastmod>2020-01-02T18:29:02+09:00</lastmod>
   </url>
   
   <url>
@@ -33,22 +78,7 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/post/</loc>
-    <lastmod>2020-01-01T14:44:33+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/tags/reflection/</loc>
-    <lastmod>2020-01-01T14:44:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/</loc>
-    <lastmod>2020-01-01T14:44:33+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/</loc>
     <lastmod>2020-01-01T14:44:33+09:00</lastmod>
   </url>
   
@@ -59,11 +89,6 @@
   
   <url>
     <loc>https://tattsum.com/2019/12/job-hunting/</loc>
-    <lastmod>2019-12-30T05:30:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/life/</loc>
     <lastmod>2019-12-30T05:30:51+09:00</lastmod>
   </url>
   
@@ -208,27 +233,7 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/students/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tattsum.com/2019/10/youtube/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/youtube/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/categories/youtube/</loc>
-    <lastmod>2019-10-31T09:43:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tattsum.com/tags/youtuber/</loc>
     <lastmod>2019-10-31T09:43:27+09:00</lastmod>
   </url>
   
@@ -288,12 +293,12 @@
   </url>
   
   <url>
-    <loc>https://tattsum.com/categories/renewal/</loc>
+    <loc>https://tattsum.com/tags/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tattsum.com/tags/renewal/</loc>
+    <loc>https://tattsum.com/categories/renewal/</loc>
     <lastmod>2018-12-10T09:48:46+09:00</lastmod>
   </url>
   

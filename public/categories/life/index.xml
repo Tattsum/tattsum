@@ -6,10 +6,19 @@
     <description>Recent content in Life on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Dec 2019 05:30:51 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 18:29:02 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Youtuber</title>
+      <link>https://tattsum.com/2020/01/youtuber/</link>
+      <pubDate>Thu, 02 Jan 2020 18:29:02 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2020/01/youtuber/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Job Hunting</title>

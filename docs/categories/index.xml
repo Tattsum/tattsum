@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 14:44:33 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 18:29:02 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>career</title>
       <link>https://tattsum.com/categories/career/</link>
-      <pubDate>Wed, 01 Jan 2020 14:44:33 +0900</pubDate>
+      <pubDate>Thu, 02 Jan 2020 18:29:02 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://tattsum.com/categories/life/</link>
+      <pubDate>Thu, 02 Jan 2020 18:29:02 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://tattsum.com/categories/youtube/</link>
+      <pubDate>Thu, 02 Jan 2020 18:29:02 +0900</pubDate>
+      
+      <guid>https://tattsum.com/categories/youtube/</guid>
       <description></description>
     </item>
     
@@ -35,15 +53,6 @@
       <pubDate>Wed, 01 Jan 2020 14:44:33 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/plan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life</title>
-      <link>https://tattsum.com/categories/life/</link>
-      <pubDate>Mon, 30 Dec 2019 05:30:51 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/life/</guid>
       <description></description>
     </item>
     
@@ -98,15 +107,6 @@
       <pubDate>Thu, 31 Oct 2019 22:11:54 +0900</pubDate>
       
       <guid>https://tattsum.com/categories/html5up/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>https://tattsum.com/categories/youtube/</link>
-      <pubDate>Thu, 31 Oct 2019 09:43:27 +0900</pubDate>
-      
-      <guid>https://tattsum.com/categories/youtube/</guid>
       <description></description>
     </item>
     
