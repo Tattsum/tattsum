@@ -1,7 +1,7 @@
 ---
 title: "Mercari"
 date: 2019-07-26T19:58:29+09:00
-draft: false
+draft: False
 categories:
 - Life
 - Netbusiness

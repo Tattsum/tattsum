@@ -1,7 +1,7 @@
 ---
 title: "Neo4j"
 date: 2020-01-06T19:50:59+09:00
-draft: True
+draft: False
 categories:
 - tech
 - linux

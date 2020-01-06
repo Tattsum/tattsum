@@ -1,7 +1,7 @@
 ---
 title: "Reading3"
 date: 2018-03-07T16:24:52+09:00
-draft: false
+draft: False
 ccategories:
 - reading
 - tech

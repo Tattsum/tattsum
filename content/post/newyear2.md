@@ -1,6 +1,7 @@
 ---
 title: "Newyear2"
 date: 2019-01-07T09:22:23+09:00
+draft: False
 categories:
 - career
 - future

@@ -1,7 +1,7 @@
 ---
 title: "Netbusiness"
 date: 2018-05-19T11:04:08+09:00
-draft: false
+draft: False
 categories:
 - Netbusiness
 - Life

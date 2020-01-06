@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo4j on 情報系の学生の旅路</title>
+    <link>https://tattsum.com/tags/neo4j/</link>
+    <description>Recent content in Neo4j on 情報系の学生の旅路</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jan 2020 19:50:59 +0900</lastBuildDate>
+    
+	<atom:link href="https://tattsum.com/tags/neo4j/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neo4j</title>
+      <link>https://tattsum.com/2020/01/neo4j/</link>
+      <pubDate>Mon, 06 Jan 2020 19:50:59 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2020/01/neo4j/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

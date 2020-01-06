@@ -1,7 +1,7 @@
 ---
 title: "Like2"
 date: 2018-03-11T07:46:31+09:00
-draft: false
+draft: False
 categories:
 - like
 - love

@@ -1,6 +1,7 @@
 ---
 title: "Renewal"
 date: 2018-12-10T09:48:46+09:00
+draft: False
 categories:
 - mylife
 - renewal

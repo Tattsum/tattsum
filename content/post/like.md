@@ -1,7 +1,7 @@
 ---
 title: "Like"
 date: 2017-12-26T09:46:23+09:00
-draft: false
+draft: False
 categories:
 - like
 - love

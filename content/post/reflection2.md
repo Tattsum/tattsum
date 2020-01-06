@@ -1,7 +1,7 @@
 ---
 title: "Reflection2"
 date: 2019-10-30T23:13:00+09:00
-draft: false
+draft: False
 categories:
 - career
 - future

@@ -1,7 +1,7 @@
 ---
 title: "Software2"
 date: 2019-11-03T21:19:27+09:00
-raft: False
+draft: False
 categories:
 - Software
 - tech

@@ -1,6 +1,7 @@
 ---
 title: "New Year Eve"
 date: 2018-12-31T21:10:31+09:00
+draft: False
 categories:
 - career
 - future

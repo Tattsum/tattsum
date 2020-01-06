@@ -6,10 +6,19 @@
     <description>Recent content in linux on 情報系の学生の旅路</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Dec 2019 12:50:37 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2020 19:50:59 +0900</lastBuildDate>
     
 	<atom:link href="https://tattsum.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neo4j</title>
+      <link>https://tattsum.com/2020/01/neo4j/</link>
+      <pubDate>Mon, 06 Jan 2020 19:50:59 +0900</pubDate>
+      
+      <guid>https://tattsum.com/2020/01/neo4j/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Memo</title>

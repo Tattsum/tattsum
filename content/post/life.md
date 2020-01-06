@@ -1,7 +1,7 @@
 ---
 title: "Life"
 date: 2018-04-05T13:16:57+09:00
-draft: false
+draft: False
 categories:
 - life
 - story

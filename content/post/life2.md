@@ -1,7 +1,7 @@
 ---
 title: "Life2"
 date: 2019-11-18T21:15:35+09:00
-draft: false
+draft: False
 categories:
 - life
 - story

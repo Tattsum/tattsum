@@ -1,7 +1,7 @@
 ---
 title: "Reading2"
 date: 2017-12-26T21:55:08+09:00
-draft: false
+draft: False
 categories:
 - reading
 - novel
