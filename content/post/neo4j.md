@@ -31,6 +31,11 @@ MATCH (n)-[r]-(m) RETURN n,r,m
 
 すべてのノードとエッジを削除する
 
+
+~~MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r~~
+
 ```
-MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r
+MATCH (n) DETACH DELETE n
 ```
+
+2020/01/20 コメントをいただいき，追記

@@ -282,8 +282,9 @@ if (!doNotTrack) {
 <p>ノードをエッジをすべて出現させる</p>
 <pre><code>MATCH (n)-[r]-(m) RETURN n,r,m
 </code></pre><p>すべてのノードとエッジを削除する</p>
-<pre><code>MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r
-</code></pre>
+<p><del>MATCH (n) OPTIONAL MATCH (n)-[r]-() DELETE n,r</del></p>
+<pre><code>MATCH (n) DETACH DELETE n
+</code></pre><p>2020/01/20 コメントをいただいき，追記</p>
               
             </div>
           </div>
